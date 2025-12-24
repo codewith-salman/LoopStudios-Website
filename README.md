@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
 
 
@@ -39,8 +38,7 @@ Perfect for:
 - Interactive creations showcase  
 - Clean grid-based design  
 - Smooth hover effects and transitions  
-- Modern typography and spacing  
-- Optimized for performance  
+- Modern typography and spacing    
 
 ---
 
