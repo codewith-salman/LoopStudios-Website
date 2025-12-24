@@ -3,10 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="LoopStudios Logo" width="120" />
-
-<br /><br />
 
 ## 🎮 Loopstudios – VR Studio Website  
 A sleek, immersive, and fully responsive **Landing Page Website UI** built using HTML, CSS, and JavaScript.  
