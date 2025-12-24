@@ -19,7 +19,7 @@ Designed to showcase virtual reality creations with bold visuals, modern layouts
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="LoopStudios/assets/images/desktop.png" alt="Loopstudios Website Desktop View" width="100%" />
+<img src="LoopStudios%20Landing%20Website/assets/images/desktop-preview.jpg" alt="Loopstudios Website Desktop View" width="100%" />
 
 The **Loopstudios Website** is a modern landing page UI concept inspired by creative and VR-focused studios.  
 It emphasizes strong visual hierarchy, immersive imagery, and minimal yet powerful typography to deliver a futuristic and engaging user experience.
