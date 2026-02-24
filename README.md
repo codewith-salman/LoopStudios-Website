@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="LoopStudios%20Landing%20Website/assets/images/desktop-preview.jpg" alt="Loopstudios Website Logo" width="120"/>
+<img src="LoopStudios%20Landing%20Website/assets/images/logo.svg" alt="Loopstudios Website Logo" width="120"/>
 
 <br />
 <br />
