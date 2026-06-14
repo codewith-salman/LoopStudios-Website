@@ -72,7 +72,6 @@ Ideal for:
 - Interactive creations showcase  
 - Clean grid-based design  
 - Smooth hover effects and transitions  
-- Modern typography and spacing 
 
 ---
 
