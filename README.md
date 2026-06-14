@@ -79,7 +79,7 @@ Ideal for:
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla)**  
+- **JavaScript**  
 
 ---
 
