@@ -61,7 +61,6 @@ Ideal for:
 - Creative and VR studios  
 - Tech startup landing pages  
 - Product showcase websites  
-- Portfolio landing pages  
 - Practice with modern UI layouts  
 
 ---
