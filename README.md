@@ -21,7 +21,6 @@
 <img src="LoopStudios%20Landing%20Website/assets/images/logo.svg" alt="Loopstudios Website Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">🎮 Loopstudios – VR Studio Website</h1>
 
@@ -65,8 +64,6 @@ Ideal for:
 - Portfolio landing pages  
 - Practice with modern UI layouts  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -76,9 +73,7 @@ Ideal for:
 - Interactive creations showcase  
 - Clean grid-based design  
 - Smooth hover effects and transitions  
-- Modern typography and spacing  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+- Modern typography and spacing 
 
 ---
 
@@ -87,8 +82,6 @@ Ideal for:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
